@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-#Ishan Ghosh's First CS193 Homework
+# Ishan Ghosh's First CS193 Homework
 - I appreciate the time given for homeworks.
 - I like the classroom
 - I like that it's taught by students
