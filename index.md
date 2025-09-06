@@ -1,4 +1,10 @@
 ## Welcome to GitHub Pages
+#Ishan Ghosh's First CS193 Homework
+- I appreciate the time given for homeworks.
+- I like the classroom
+- I like that it's taught by students
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
